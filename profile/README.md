@@ -11,7 +11,7 @@ in **theorical computer sciences**.
 ---
 
 <h2 align=center>
-	Projetcs I have done at <img width="25px" height="25px" src="./assets/42-lehavre-logo.svg" style="vertical-align: bottom;"/>
+	Projetcs I have done at <img height="25px" src="./assets/42-lehavre-logo.svg" style="vertical-align: bottom;"/>
 </h2>
 
 I have a [dedicated page](https://www.github.com/42-amassias) for all my 42 projects.
