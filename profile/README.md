@@ -10,7 +10,7 @@ in **theorical computer sciences**.
 
 ---
 
-<h2 align=center>
+<h2 align=center vertical-align: middle>
 	Projetcs I have done at <img width="25px" height="25px" src="./42logo.svg" /> Le Havre
 </h2>
 
