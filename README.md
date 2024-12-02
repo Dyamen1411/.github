@@ -30,9 +30,9 @@ I have a [dedicated page](https://www.github.com/42-amassias) for all my 42 proj
 <h2 align="center"> ✨ Star projects </h2>
 
 - 🖥️ [**Minishell**](https://www.github.com/lailouezzz/minishell)
-	> Minishell is a command line interpreter, we did it using a [*LR parser*](https://en.wikipedia.org/wiki/LR_parser).
+	> Minishell is a very minimalistic command line interpreter (SHELL), we did it using a [*LR parser*](https://en.wikipedia.org/wiki/LR_parser).
 
-- 
+- **WIP**
 
 ---
 
