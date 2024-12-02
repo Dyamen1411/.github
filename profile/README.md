@@ -10,7 +10,7 @@ in **theorical computer sciences**.
 
 ---
 
-<h2 align=center> <img height="50%" src="./42logo.svg" /> Projetcs I have done at 42 Le Havre </h2>
+<h2 align=center> <img height="25px" src="./42logo.svg" /> Projetcs I have done at 42 Le Havre </h2>
 
 I have a [dedicated page](https://www.github.com/42-amassias) for all my 42 projects.
 
