@@ -15,7 +15,7 @@ in **theorical computer sciences**.
 - 2023 - present | ***École 42*** @ Le Havre <img height="25px" src="./assets/42-lehavre-logo.svg" />
 	> No classroom, no professor, no courses, just students struggling together. Peer to peer learning with projects.
 - 2020 - 2023 | ***Université de Rouen*** @ Rouen <img height="25px" src="./assets/univrouen-logo.svg" />
-	> 3 years of computer science studies, the best 3 years of my life ! I learned so much theorical stuff !****
+	> 3 years of computer science studies, the best 3 years of my life ! I learned so much theorical stuff !
 
 ---
 
