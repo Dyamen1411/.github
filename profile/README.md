@@ -14,8 +14,7 @@ in **theorical computer sciences**.
 	Projetcs I have done at <img height="25px" src="./assets/42-lehavre-logo.svg" style="vertical-align: bottom;"/>
 </h2>
 
-I have a [dedicated page](https://www.github.com/42-amassias) for all my 42 projects.
-
+I have a [dedicated page](https://www.github.com/42-amassias) for all my 42 projects and their explanation.
 
 ---
 
@@ -30,6 +29,8 @@ I have a [dedicated page](https://www.github.com/42-amassias) for all my 42 proj
 
 <h2 align="center"> 📊 Stats </h2>
 
-<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyamen1411&theme=blueberry&hide_border=true&layout=compact" />
-
-<img align=center src="https://github-readme-stats.vercel.app/api?username=Dyamen1411&show_icons=true&theme=blueberry&hide_border=true&layout=compact" />
+<p align=center>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dyamen1411&theme=blueberry&hide_border=true&layout=compact" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dyamen1411&show_icons=true&theme=blueberry&hide_border=true&layout=compact" />
+</p>
