@@ -2,11 +2,20 @@
 
 🌍 I'm a french computer science student.
 
-🧑‍🎓 Currently studying at **42 Le Havre** and planing to go back to uni to get a PhD
+🧑‍🎓 Currently studying at [**42 Le Havre**](https://www.42lehavre.fr) and planing to go back to uni to get a PhD
 in **theorical computer sciences**.
 
 💻 I love low level stuff, maths and taking 10 hours to automate 10 second tasks
 😅
+
+---
+
+<h2 align=center> 🏫 My studies </h2>
+
+- 2023 - present | <img height="25px" src="./assets/42-lehavre-logo.svg" />
+	> aled
+- 2020 - 2023 | <img height="25px" src="./assets/univrouen-logo.svg" />
+	> aled
 
 ---
 
