@@ -12,7 +12,7 @@ in **theorical computer sciences**.
 
 <h2 align=center> 🏫 My studies </h2>
 
-- 2023 - present | ***École 42*** @ Le Havre <img height="25px" src="./assets/42-lehavre-logo.svg" />
+- 2023 - present | ***École 42*** @ Le Havre <img height="25px" src="./assets/42-lehavre-logo.png" />
 	> No classroom, no professor, no courses, just students struggling together. Peer to peer learning with projects.
 - 2020 - 2023 | ***Université de Rouen*** @ Rouen <img height="25px" src="./assets/univrouen-logo.svg" />
 	> 3 years of computer science studies, the best 3 years of my life ! I learned so much theorical stuff !
@@ -20,7 +20,7 @@ in **theorical computer sciences**.
 ---
 
 <h2 align=center>
-	Projetcs I have done at <img height="25px" src="./assets/42-lehavre-logo.svg" style="vertical-align: bottom;"/>
+	Projetcs I have done at <img height="25px" src="./assets/42-lehavre-logo.png" style="vertical-align: bottom;"/>
 </h2>
 
 I have a [dedicated page](https://www.github.com/42-amassias) for all my 42 projects and their explanation.
